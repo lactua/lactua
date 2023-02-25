@@ -1,16 +1,32 @@
-### Hi there 👋
+# <p align="center">Lactua</p>
 
-<!--
-**lactua/lactua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lactua&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" width="610"/>
 
-Here are some ideas to get you started:
+## About Me
+Hello, I'm a french 15 years old developper. Programmation is my main hobby since 2020. Currently my best projects was [RSHv2](https://github.com/lactua/rshv2) and [Kyogre](https://github.com/lactua/kyogre)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts
+**Discord** : [lactua#4663](https://discord.com/users/1062301946712707103)
+<br>
+**Mail** : [lactua@lactua.com](lactua@lactua.com)
+
+<br><br>
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lactua&theme=midnight-purple&hide_border=true" width="500"/>
+
+## Currents Projects
+No current project.
+<br><br><br><br><br><br>
+  
+## Tools I Use
+[![](https://skillicons.dev/icons?i=python)](https://python.org)
+[![](https://skillicons.dev/icons?i=vscode)](https://vscode.dev)
+[![](https://skillicons.dev/icons?i=figma)](https://figma.com)
+[![](https://skillicons.dev/icons?i=github)](https://github.com)
+[![](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
+[![](https://skillicons.dev/icons?i=discord)](https://discord.com)
+
+## Services I Use
+* [HostMyServers](https://www.hostmyservers.fr/) for hosting
+* [Ionos](https://www.ionos.fr/) for my [lactua.com](http://lactua.com) domain
+
