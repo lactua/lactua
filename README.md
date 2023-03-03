@@ -15,7 +15,7 @@ Hello, I'm a french 15 years old developper. Programmation is my main hobby sinc
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lactua&theme=midnight-purple&hide_border=true" width="500"/>
 
 ## Currents Projects
-No current project.
+I'm currently working on a new python obfuscator named [Deoxys](https://github.com/lactua/deoxys).
 <br><br><br><br><br><br>
   
 ## Tools I Use
